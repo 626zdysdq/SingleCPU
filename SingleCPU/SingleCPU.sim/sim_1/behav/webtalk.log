@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# IP Build 1367837 on Mon Sep 28 08:56:14 MDT 2015
+# Start of session at: Tue May 29 10:12:25 2018
+# Process ID: 1912
+# Current directory: C:/Users/zhuduoyu/SingleCPU/SingleCPU.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/zhuduoyu/SingleCPU/SingleCPU.sim/sim_1/behav/xsim.dir/sim_cpu_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/zhuduoyu/SingleCPU/SingleCPU.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/zhuduoyu/SingleCPU/SingleCPU.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/zhuduoyu/SingleCPU/SingleCPU.sim/sim_1/behav/xsim.dir/sim_cpu_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 49.586 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Tue May 29 10:12:33 2018...

@@ -1,0 +1,4 @@
+Running: xsim.dir/sim_cpu_behav/xsimk.exe -simmode gui -wdb sim_cpu_behav.wdb -simrunnum 0 -socket 60229
+Design successfully loaded
+Design Loading Memory Usage: 22656 KB (Peak: 22656 KB)
+Design Loading CPU Usage: 140 ms
